@@ -1,0 +1,6 @@
+Steps:
+1. Install python3: sudo apt-get install python3
+2. Install pip3: sudo apt-get install python-pip3
+3. Install google-cloud-translate: pip install google-cloud-translate
+4. export GOOGLE_APPLICATION_CREDENTIALS="path to creds file"
+5. python3 main.py
